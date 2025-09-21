@@ -1,0 +1,8 @@
+
+
+(base) nicolaimoli@Nicolas-MacBook-Pro restaurant-ai-model_AI_v1 % source venv/bin/activate
+(venv) (base) nicolaimoli@Nicolas-MacBook-Pro restaurant-ai-model_AI_v1 % cd backend
+(venv) (base) nicolaimoli@Nicolas-MacBook-Pro backend % python app.py
+
+
+poi attivare anche il react app
