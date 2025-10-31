@@ -1,0 +1,8 @@
+# Python junk
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Allow model/data files
+# (Don’t put *.joblib or *.pkl here)
